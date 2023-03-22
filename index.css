@@ -1,0 +1,66 @@
+body{
+  padding: 3em;
+}
+p {
+  text-align: justify;
+}
+#result{
+  display: none;
+}
+.form {
+  background-color: rgb(234, 234, 234);
+  padding: 1em;
+}
+.tombol{
+  text-align: center;
+}
+.form-check {
+  margin-right: 0.5em;
+}
+label {
+  font-weight: bold;
+}
+ol {
+  padding-left: 1em;
+}
+img{
+  width: 9em;
+}
+.download{
+  text-align: center;
+  padding: 1em;
+}
+#resiko{
+  background-color: rgb(234, 234, 234);
+  padding: 1em;
+  margin-top: 1em;
+  text-align: center;
+}
+#resiko ul li{
+  list-style-type: none;
+}
+.hasil{
+  background-color: rgb(234, 234, 234);
+  padding: 1em;
+  text-align: center;
+}
+#nilai{
+  font-size: 3em;
+} 
+.hasil p{
+  text-align: center;
+  margin-bottom: 1.5em;
+}
+.ket{
+  margin-top: 1em;
+}
+.ket p {
+  margin: 0;
+}
+.ket button{
+  margin: 1em 0.5em 1em;
+}
+#ulang{
+  margin: 2em;
+  text-align: center;
+}
